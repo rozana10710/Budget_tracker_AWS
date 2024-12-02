@@ -2,7 +2,7 @@
 
 Let's get a little less poor with AWS
 
-Aren't we all?As I'm preparing for my AWS certificate, hands on and projects are key factor to ensure I'm making sense out of any service.
+As I'm preparing for my AWS certificate, hands on and projects are key factor to ensure I'm making sense out of any service.
 I asked ChatGPT to suggest a project that integrates AWS with a day to day problem that I can fix- using AWS.
 Since it knows much about my very poor spending habits, It suggested I make a "budget tracker" - and I did feel personally attacked, but here we go:
 
