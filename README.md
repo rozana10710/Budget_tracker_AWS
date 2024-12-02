@@ -33,7 +33,6 @@ The lambda functionThe database stores and retrieves the data.
 
 The DynmoDBAll whilst applying fine grained permissions using IAM
 
-I won't go into to much details as the whole code is uploaded to my github repository with detailed comments that you can check here: https://github.com/rozana10710/Budget_tracker_AWS.git
 
 ---
 
